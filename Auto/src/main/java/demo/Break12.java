@@ -8,7 +8,7 @@ public class Break12
 	@Test
 	public void method1()
 	{
-	String a = "bcadefaghi";	
+	String a = "bcadefaghtest";	
 		String []b = a.split("a");
 		
 		for(int i=0;i<b.length;i++)
