@@ -15,6 +15,8 @@ public class Break12
 		{
 			System.out.println(b[i]);
 		}
+		
+		System.out.println("=====End=====");
 	}
 
 	
