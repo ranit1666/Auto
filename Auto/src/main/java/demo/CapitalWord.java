@@ -18,7 +18,9 @@ public class CapitalWord
 			}
 			
 			System.out.println(rev);
+			System.out.println("test1"); //delete it
+			System.out.println("test2"); //delete it
 		}
 	
-	
+	 
 }
