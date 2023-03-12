@@ -1,11 +1,10 @@
 package demo;
 
-import org.testng.annotations.Test;
+
 
 public class CapitalWord 
 {
-
-	 @Test
+	@Test
 		public void reverse()
 		{
 			String a="this is javatpoint";

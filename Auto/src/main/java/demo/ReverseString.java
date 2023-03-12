@@ -1,8 +1,8 @@
 package demo;
 
-import org.testng.annotations.Test;
+import org.testng.annotations.*;
 
-public class ReverseString 
+public class ReverseString
 {
 
 	@Test
@@ -25,12 +25,12 @@ public class ReverseString
 		{
 			System.out.println("This is palindrome string");
 		}
-		
+
 		else
 		{
 			System.out.println("This is not palindrome string");
 		}
 	}
-	
-	
+
+
 }
